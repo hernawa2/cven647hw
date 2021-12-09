@@ -11,4 +11,8 @@ Project 2 (Finite Element Analysis for axially symmetrical cylinder footing axia
 Project 3 (Finite Element Analysis for spatial and temporal uncoupled consolidation settlement problem)
 - includes meshing, differential operator matrix, global K and Q matrix in uncoupled consolidation analysis, time-updating loop.
 
-Please contact me if you find any bugs (which I'm sure there is)
+Project 5 (Elastic Perfectly Plastic Model with Von-Mises failure criterion and no strain hardening/softening)
+- includes initial stress state, stress transformation and main strain controlled loop.
+- there is a bug on this version of the code although the output is permissible
+
+Please contact me at hernawa2 (at) tamu (dot) edu if you find any bugs (which I'm sure there is)
