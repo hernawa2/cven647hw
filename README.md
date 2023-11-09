@@ -15,4 +15,4 @@ Project 5 (Elastic Perfectly Plastic Model with Von-Mises failure criterion and 
 - includes initial stress state, stress transformation and main strain controlled loop.
 - there is a bug on this version of the code although the output is permissible
 
-Please contact me at hernawa2 (at) tamu (dot) edu if you find any bugs (which I'm sure there is)
+Please contact me at hernawa2 (at) tamu (dot) edu if you find any bugs.
